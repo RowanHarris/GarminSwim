@@ -1,0 +1,19 @@
+<resources>
+    <string id="AppName">CleanSwim</string>
+
+    <!-- Pause Menu Strings -->
+    <string id="MenuTitle">Swim Paused</string>
+    <string id="MenuResume">Resume</string>
+    <string id="MenuSave">Save</string>
+    <string id="MenuDiscard">Discard</string>
+    <string id="MenuRemoveLap">Undo Lap (-1)</string>
+    <string id="ConfirmDiscardPrompt">Discard swim?\nAre you sure?</string>
+
+    <!-- Developer FIT Contribution Labels -->
+    <string id="FitCleanDistanceLabel">Clean Distance</string>
+    <string id="FitCleanDistanceUnits">m</string>
+    <string id="FitCleanLapsLabel">Clean Laps</string>
+    <string id="FitCleanLapsUnits">laps</string>
+    <string id="FitCleanAvgPaceLabel">Clean Avg Pace</string>
+    <string id="FitCleanAvgPaceUnits">s/100m</string>
+</resources>

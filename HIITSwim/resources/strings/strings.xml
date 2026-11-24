@@ -1,0 +1,22 @@
+<resources>
+    <string id="AppName">HIIT Swim</string>
+
+    <!-- Completion Save / Discard Menu -->
+    <string id="MenuCompleteTitle">HIIT Complete</string>
+    <string id="MenuSave">Save</string>
+    <string id="MenuDiscard">Discard</string>
+    <string id="MenuResumeCooldown">More Cool-down</string>
+    <string id="ConfirmDiscardPrompt">Discard swim?\nAre you sure?</string>
+
+    <!-- Developer FIT Contribution Labels -->
+    <string id="FitCleanDistanceLabel">Clean Distance</string>
+    <string id="FitCleanDistanceUnits">m</string>
+    <string id="FitCleanLapsLabel">Clean Laps</string>
+    <string id="FitCleanLapsUnits">laps</string>
+    <string id="FitCleanAvgPaceLabel">Swim Avg Pace</string>
+    <string id="FitCleanAvgPaceUnits">s/100m</string>
+    <string id="FitStageDistanceLabel">Stage Distance</string>
+    <string id="FitStageDistanceUnits">m</string>
+    <string id="FitStageLapsLabel">Stage Laps</string>
+    <string id="FitStageLapsUnits">laps</string>
+</resources>
